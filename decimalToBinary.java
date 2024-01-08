@@ -14,6 +14,6 @@ public class decimalToBinary {
 
 
     public static void main(String args[]){
-        DToB(7);
+        DToB(15);
     }
 }
